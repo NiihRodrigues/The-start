@@ -15,7 +15,7 @@ Iniciando uma nova experiência, neste diretório vou explicar com minhas palavr
 3. Entender o Git e Github:**feito**  
 -> Anotações em arquivos .md usando Emacs <3
 
-4. Aprender o básico dos comandos Linux/Bash.  
+4. Aprender o básico dos comandos Linux/Bash. **feito** 
 
 5. Instalar Zsh ou OhmyZsh
 
