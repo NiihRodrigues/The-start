@@ -17,7 +17,7 @@ Iniciando uma nova experiência, neste diretório vou explicar com minhas palavr
 
 4. Aprender o básico dos comandos Linux/Bash: **feito** 
 
-5. Instalar Zsh ou OhmyZsh
+5. Instalar Zsh ou OhmyZsh: **feito**
 
 6. Ler documentação do DOOM Emacs(Base ReadMe)
 
